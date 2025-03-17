@@ -1,4 +1,5 @@
 [submodule "third_party/tensorflow"]
 	path = third_party/tensorflow
-	url = https://github.com/tensorflow/tensorflow
+	url = git@github.com:rodgomesc/tensorflow.git
 	branch = master
+
